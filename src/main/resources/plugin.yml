@@ -1,0 +1,6 @@
+name: OneBlock
+version: '${version}'
+main: dev.josemc.oneblock.OneBlock
+api-version: 1.19
+authors: [ josemc ]
+description: Plugin based on the popular map OneBlock by ijaminecraft
